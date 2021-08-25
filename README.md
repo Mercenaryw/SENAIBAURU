@@ -21,8 +21,7 @@
 
 ----------------------------------------------------------------------------------
 
-*OBS onde está escrito em maiúsculo você deve escrever suas informações:
 
 Werner.
 
-LINK_GIT = https://github.com/mercenaryw.
+https://github.com/mercenaryw.
